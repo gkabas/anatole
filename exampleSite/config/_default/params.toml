@@ -1,10 +1,10 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Gazi Kabas"
+author = "Gazi Kabas"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
-keywords = ""
+description = "Assistant Professor"
+profilePicture = "images/Gazi Kabas.jpg"
+keywords = "Gazi Kabas"
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
@@ -57,22 +57,19 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/gazi-kaba%C5%9F-14456612a/"
 
 [[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+icon = "fab fa-flickr"
+title = "flickr"
+url = "https://www.flickr.com/photos/gzkbs/"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/gzkbs/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
-
-[mermaid]
-# enable = true
+url = "mailto:gazi.kabas@uzh.ch"
