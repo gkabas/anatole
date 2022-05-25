@@ -2,7 +2,12 @@
 title = "Gazi Kabas"
 author = "Gazi Kabas"
 #copyright = "2020-2021"
-description = "Assistant Professor"
+description = """
+Household Finance, Banking, 
+Empirical Corporate Finance
+Assistant Professor
+Tilburg University
+"""
 profilePicture = "images/Gazi Kabas.jpg"
 keywords = "Gazi Kabas"
 favicon = "favicons/"
@@ -54,6 +59,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
+
+[[socialIcons]]
+icon = "fas fa-CV"
+title = "CV"
+url = "https://www.linkedin.com/in/gazi-kaba%C5%9F-14456612a/"
+
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
